@@ -67,7 +67,7 @@ To address the main task of building a regression model for price prediction, im
    cd Machine-Learning-Concept-Car-Price-Prediction
    ```
 
-3. Explore the provided Jupyter notebooks and Python scripts.
+3. Explore the provided Jupyter notebooks.
 
 4. Modify and experiment with the code for your own datasets or analyses.
 
